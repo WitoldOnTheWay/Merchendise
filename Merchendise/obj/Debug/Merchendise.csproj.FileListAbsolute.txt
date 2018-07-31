@@ -1,7 +1,0 @@
-C:\Users\Witek\Projects\Merchendise\Merchendise\bin\Debug\Merchendise.exe.config
-C:\Users\Witek\Projects\Merchendise\Merchendise\bin\Debug\Merchendise.exe
-C:\Users\Witek\Projects\Merchendise\Merchendise\bin\Debug\Merchendise.pdb
-C:\Users\Witek\Projects\Merchendise\Merchendise\obj\Debug\Merchendise.csprojResolveAssemblyReference.cache
-C:\Users\Witek\Projects\Merchendise\Merchendise\obj\Debug\Merchendise.csproj.CoreCompileInputs.cache
-C:\Users\Witek\Projects\Merchendise\Merchendise\obj\Debug\Merchendise.exe
-C:\Users\Witek\Projects\Merchendise\Merchendise\obj\Debug\Merchendise.pdb
